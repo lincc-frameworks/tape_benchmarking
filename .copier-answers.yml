@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier
+_commit: v1.3.4
+_src_path: gh:lincc-frameworks/python-project-template
+author_email: brantd@uw.edu
+author_name: LINCC Frameworks
+create_example_module: false
+custom_install: true
+include_notebooks: true
+mypy_type_checking: none
+package_name: tape_benchmarking
+preferred_linter: black
+project_license: MIT
+project_name: tape_benchmarking
+use_gitlfs: disabled
+use_isort: false
