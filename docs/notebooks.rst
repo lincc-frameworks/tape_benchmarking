@@ -3,4 +3,4 @@ Notebooks
 
 .. toctree::
 
-    Introducing Jupyter Notebooks <notebooks/intro_notebook>
+    Sesar 2010 RR Lyrae (Stripe 82) Dataset <notebooks/s82_rrlyrae>
