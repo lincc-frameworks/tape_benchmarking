@@ -16,6 +16,7 @@ classifiers = [
 dynamic = ["version"]
 dependencies = [
     "deprecated",
+    "lsstseries",
     "ipykernel", # Support for Jupyter notebooks
 ]
 
@@ -37,6 +38,7 @@ dev = [
     "ipython", # Also used in building notebooks into Sphinx
     "matplotlib", # Used in sample notebook intro_notebook.ipynb
     "numpy", # Used in sample notebook intro_notebook.ipynb
+    "lsstseries",
 ]
 
 [build-system]
