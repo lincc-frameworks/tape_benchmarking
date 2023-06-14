@@ -2,8 +2,8 @@
 import pytest
 from dask.distributed import Client
 
-from lsstseries import Ensemble
-from lsstseries.utils import ColumnMapper
+from tape import Ensemble
+from tape.utils import ColumnMapper
 
 
 @pytest.fixture(scope="package", name="dask_client")
